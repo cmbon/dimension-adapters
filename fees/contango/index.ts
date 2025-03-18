@@ -56,8 +56,7 @@ const adapter: SimpleAdapter = {
             fetch: fetch,
             start: '2024-11-05'
         },
-    },
-    isExpensiveAdapter: true,
+    }
 }
 
 export default adapter;
